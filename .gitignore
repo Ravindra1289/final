@@ -1,0 +1,51 @@
+# 🔹 Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual Environment
+venv/
+env/
+environment/
+.venv/
+
+# 🔹 VS Code settings
+.vscode/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+*.log
+
+# 🔹 Environment variables
+.env
+
+# 🔹 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🔹 Build / distribution
+build/
+dist/
+*.egg-info/
+
+# 🔹 Streamlit cache
+.streamlit/
+
+# 🔹 Model files (optional - if large)
+*.pkl
+*.joblib
+
+# 🔹 Dataset files (optional - if large)
+dataset/
+*.csv
+*.xlsx
+
+# 🔹 Outputs (generated files)
+outputs/
+plots/
+
+# 🔹 Temporary files
+*.tmp
+*.temp
